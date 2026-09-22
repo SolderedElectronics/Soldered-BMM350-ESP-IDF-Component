@@ -1,0 +1,3 @@
+dependencies:
+  Soldered-BMM350-ESP-IDF-Component:
+    path: "../../.."
